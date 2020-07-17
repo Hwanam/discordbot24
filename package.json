@@ -1,0 +1,8 @@
+{
+  "name": "DCBOT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "launch": "node index.js"
+  }
+}
